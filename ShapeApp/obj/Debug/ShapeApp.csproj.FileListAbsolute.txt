@@ -1,0 +1,17 @@
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\bin\Debug\ShapeApp.exe.config
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\bin\Debug\ShapeApp.exe
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\bin\Debug\ShapeApp.pdb
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.csproj.AssemblyReference.cache
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.Properties.Resources.resources
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.csproj.GenerateResource.cache
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.exe
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.pdb
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.Views.Dashboard.resources
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.Views.RectangleForm.resources
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.Views.SquareForm.resources
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.Views.CircleForm.resources
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\IU Ratnayake\Desktop\Ishara Ass\ShapeApp\obj\Debug\ShapeApp.csproj.CopyComplete
